@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "65a408d2-a8a2-48aa-9e69-a16bf9359d73",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47019572",
+		"_collection_link": "https://docking-module-astronomer-18322355-539094.postman.co/workspace/Aman-Ansary's-Workspace~a0d4af46-7f7b-4186-8625-aff73f7ee931/collection/47019572-65a408d2-a8a2-48aa-9e69-a16bf9359d73?action=share&source=collection_link&creator=47019572"
+	},
+	"item": [
+		{
+			"name": "createpost",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "likeapost",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "botaddcomment",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
